@@ -1,6 +1,6 @@
-INDICE = 13
+INDICE = 12
 SOMA = 0
-K = 0
+K = 1
 
 # Enquanto o valor de k for menor que o valor do indice adicione mais 1 a soma
 while K < INDICE:
