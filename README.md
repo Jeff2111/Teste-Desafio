@@ -41,20 +41,23 @@ Explicação: Esta sequência apresenta uma contagem crescente de números intei
 
 Questão 5) 
 
-Passo 1 - Mantenha o Interruptor 1 desligado.
-Passo 2 - Ative o Interruptor 2 e deixe-o ligado por alguns minutos e depois desligue novamente
+Passo 1 - Mantenha o Interruptor 1 desligado.                                                                                                                                                
+Passo 2 - Ative o Interruptor 2 e deixe-o ligado por alguns minutos e depois desligue novamente                                                                                              
 Passo 3 - Ligue o Interruptor 3 e mantenha-o ligado.
+
 
 Agora, vá até a sala 1:
 
-Se a lâmpada estiver acesa, isso significa que ela é controlada pelo Interruptor 3.
-Se a lâmpada estiver apagada, mas quente, então o controlador é o Interruptor 2.
-Se a lâmpada estiver apagada e fria, o controlador será o Interruptor 1.
+Se a lâmpada estiver acesa, isso significa que ela é controlada pelo Interruptor 3.                                                                                                          
+Se a lâmpada estiver apagada, mas quente, então o controlador é o Interruptor 2.                                                                                                            
+Se a lâmpada estiver apagada e fria, o controlador será o Interruptor 1.                                                                                                                    
+
 
 Agora, volte e vá até a sala 2:
 
-Se a lâmpada estiver acesa, isso significa que ela é controlada pelo Interruptor 3.
-Se a lâmpada estiver apagada, mas quente, então o controlador é o Interruptor 2.
-Se a lâmpada estiver apagada e fria, o controlador será o Interruptor 1.
+Se a lâmpada estiver acesa, isso significa que ela é controlada pelo Interruptor 3.                                                                                                          
+Se a lâmpada estiver apagada, mas quente, então o controlador é o Interruptor 2.                                                                                                            
+Se a lâmpada estiver apagada e fria, o controlador será o Interruptor 1.                                                                                                                    
+
 
 Com a lâmpada da sala 3 sendo controlada pela lâmpada restante, assim não sendo necessario entrar na mesma.
