@@ -35,9 +35,9 @@ e) 1, 1, 2, 3, 5, 8, 13
 Próximo número: 13
 Explicação: Esta é a sequência de Fibonacci, onde cada número é a soma dos dois números anteriores. Então: 1 + 1 = 2; 1 + 2 = 3; 2 + 3 = 5; 3 + 5 = 8; 5 + 8 = 13.
 
-f) 2, 10, 12, 16, 17, 18, 19, 20
-Próximo número: 20
-Explicação: Esta sequência apresenta uma contagem crescente de números inteiros. Notamos que após 19, a sequência segue a ordem natural dos números. Então, o próximo número na sequência é 20.
+f) 2, 10, 12, 16, 17, 18, 19, 200
+Próximo número: 200
+Explicação: Esta sequência apresenta uma contagem onde todos os números começam com a letra D, assim seguindo a lógica o próximo número começando pela letra "D" é o 200.
 
 Questão 5) 
 
